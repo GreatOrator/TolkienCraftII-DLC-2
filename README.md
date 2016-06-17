@@ -1,2 +1,2 @@
 # TolkienCraftII-DLC-2
-Regions of Khazad Dum, Lothlorien, Minas Tirith, Mirkwood, Mordor, Rivendell, Shire, and Weathertop
+This includes the regions of Gundabad, Helm's Deep, Isengard, Khazad Dum, Lothlorien, Minas Tirith and Grey Havens
